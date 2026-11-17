@@ -3,7 +3,7 @@
 Course project for **Computer Vision (0135326)**, Al-Zaytoonah University of Jordan.
 Instructor: Dr. Akram Fatayer.
 
-**Team:** _Your name(s) here_
+**author:** sadeen abdelalerahman
 
 > Educational project. Not a substitute for an agronomist's diagnosis.
 
