@@ -23,7 +23,6 @@ Plant diseases spread quickly, and late diagnosis leads to crop loss. Farmers of
 ## 3. Dataset
 
 **PlantVillage** (Kaggle): <https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset>
-
 - Leaf images grouped into folders named `Plant___Disease`.
 - Expected: about 54,000 images and 38 classes (verify the class count after download; some PlantVillage copies on Kaggle are smaller).
 - We use the **color** version.
